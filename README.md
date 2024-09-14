@@ -13,9 +13,13 @@ This project implements a real-time chat system between two FPGA boards using a 
 - **Message Display System:**  
   Developed a system to display received messages on the FPGA board. This includes smooth handling of keyboard inputs and real-time updates on the display.
 
+
 - **Efficient Data Transmission:**  
   Programmed efficient data transmission and reception routines, ensuring timely and accurate message delivery between the FPGA boards.
 
 ## How it Works
 1. **Keyboard Input:** Users type messages using a PS/2 keyboard connected to the FPGA board.
 2. **Message Transmission:** The typed message is transmitted via the custom serial communication protocol to the other F
+
+Below is the demo video
+https://github.com/user-attachments/assets/042d7009-db02-4e05-9f29-d680a32f246b
